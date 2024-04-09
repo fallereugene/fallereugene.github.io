@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/main.3393d2e990f7785f4252.js",
+    "runtime.js": "/runtime.2d1db6ef2c5f8e11596d.js",
+    "384.js": "/384.895c4f60e2672b41c5aa.js",
+    "384.css": "/384.31d6cfe0d16ae931b73c.css",
+    "vendor.js": "/vendor.8f50639c560515f006e9.js",
+    "service-worker.js": "/service-worker.js",
+    "android-chrome-512x512.png": "/android-chrome-512x512.png",
+    "favicon.ico": "/favicon.ico",
+    "safari-pinned-tab.svg": "/safari-pinned-tab.svg",
+    "android-chrome-192x192.png": "/android-chrome-192x192.png",
+    "apple-touch-icon.png": "/apple-touch-icon.png",
+    "mstile-150x150.png": "/mstile-150x150.png",
+    "todo.txt": "/todo.txt",
+    "locales/ru/translation.json": "/locales/ru/translation.json",
+    "manifest.json": "/manifest.json",
+    "screenshots-320.png": "/screenshots-320.png",
+    "locales/en/translation.json": "/locales/en/translation.json",
+    "favicon-32x32.png": "/favicon-32x32.png",
+    "index.html": "/index.html",
+    "favicon-16x16.png": "/favicon-16x16.png",
+    "browserconfig.xml": "/browserconfig.xml",
+    "CHANGELOG.md": "/CHANGELOG.md"
+  },
+  "entrypoints": [
+    "runtime.2d1db6ef2c5f8e11596d.js",
+    "main.3393d2e990f7785f4252.js"
+  ]
+}
