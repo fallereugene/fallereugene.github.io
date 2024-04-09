@@ -1,8 +1,8 @@
 {
   "files": {
     "main.js": "/main.3393d2e990f7785f4252.js",
-    "runtime.js": "/runtime.2d1db6ef2c5f8e11596d.js",
-    "384.js": "/384.895c4f60e2672b41c5aa.js",
+    "runtime.js": "/runtime.ff9e5593f33ade73f758.js",
+    "384.js": "/384.c6ce460c1f1ddd709ea1.js",
     "384.css": "/384.31d6cfe0d16ae931b73c.css",
     "vendor.js": "/vendor.8f50639c560515f006e9.js",
     "service-worker.js": "/service-worker.js",
@@ -12,6 +12,7 @@
     "android-chrome-192x192.png": "/android-chrome-192x192.png",
     "apple-touch-icon.png": "/apple-touch-icon.png",
     "mstile-150x150.png": "/mstile-150x150.png",
+    "todo.txt": "/todo.txt",
     "locales/ru/translation.json": "/locales/ru/translation.json",
     "manifest.json": "/manifest.json",
     "screenshots-320.png": "/screenshots-320.png",
@@ -23,7 +24,7 @@
     "CHANGELOG.md": "/CHANGELOG.md"
   },
   "entrypoints": [
-    "runtime.2d1db6ef2c5f8e11596d.js",
+    "runtime.ff9e5593f33ade73f758.js",
     "main.3393d2e990f7785f4252.js"
   ]
 }
