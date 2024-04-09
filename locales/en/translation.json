@@ -1,0 +1,27 @@
+{
+    "common": {
+        "delete": "Delete",
+        "edit": "Edit",
+        "confirm": "Confirm",
+        "change_language_counter_zero": "Locale was not changed",
+        "change_language_counter_one": "Locale was changed 1 time",
+        "change_language_counter_other": "Locale was changed {{count}} times"
+    },
+    "main": {
+        "project_name": "ToDo List",
+        "enter_task_name": "Enter task name",
+        "filter_all": "All",
+        "filter_active": "Active",
+        "filter_completed": "Completed"
+    },
+    "error": {
+        "invalid_email": "Invalid email",
+        "required_field": "Required field",
+        "invalid_uri": "Not valid uri address",
+        "min_symbols": "Minimum symbols required: {{symbols}}",
+        "max_symbols": "Maximum symbols: {{symbols}}"
+    },
+    "control": {
+        "main_input_label": "Task description"
+    }
+}
