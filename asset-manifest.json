@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/main.31fa08b35376c650d464.js",
+    "runtime.js": "/runtime.a7d1411cbc763d1ef015.js",
+    "143.js": "/143.b9f634cbcc03db5e02ca.js",
+    "143.css": "/143.31d6cfe0d16ae931b73c.css",
+    "vendor.js": "/vendor.8f50639c560515f006e9.js",
+    "service-worker.js": "/service-worker.js",
+    "android-chrome-512x512.png": "/android-chrome-512x512.png",
+    "favicon.ico": "/favicon.ico",
+    "safari-pinned-tab.svg": "/safari-pinned-tab.svg",
+    "android-chrome-192x192.png": "/android-chrome-192x192.png",
+    "apple-touch-icon.png": "/apple-touch-icon.png",
+    "mstile-150x150.png": "/mstile-150x150.png",
+    "locales/ru/translation.json": "/locales/ru/translation.json",
+    "manifest.json": "/manifest.json",
+    "screenshots-320.png": "/screenshots-320.png",
+    "locales/en/translation.json": "/locales/en/translation.json",
+    "favicon-32x32.png": "/favicon-32x32.png",
+    "index.html": "/index.html",
+    "favicon-16x16.png": "/favicon-16x16.png",
+    "browserconfig.xml": "/browserconfig.xml",
+    "CHANGELOG.md": "/CHANGELOG.md"
+  },
+  "entrypoints": [
+    "runtime.a7d1411cbc763d1ef015.js",
+    "main.31fa08b35376c650d464.js"
+  ]
+}
