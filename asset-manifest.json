@@ -1,8 +1,8 @@
 {
   "files": {
     "main.js": "/main.31fa08b35376c650d464.js",
-    "runtime.js": "/runtime.33f44f234c98948af264.js",
-    "143.js": "/143.aa01af76dfecb197804b.js",
+    "runtime.js": "/runtime.a7d1411cbc763d1ef015.js",
+    "143.js": "/143.b9f634cbcc03db5e02ca.js",
     "143.css": "/143.31d6cfe0d16ae931b73c.css",
     "vendor.js": "/vendor.8f50639c560515f006e9.js",
     "service-worker.js": "/service-worker.js",
@@ -23,7 +23,7 @@
     "CHANGELOG.md": "/CHANGELOG.md"
   },
   "entrypoints": [
-    "runtime.33f44f234c98948af264.js",
+    "runtime.a7d1411cbc763d1ef015.js",
     "main.31fa08b35376c650d464.js"
   ]
 }
