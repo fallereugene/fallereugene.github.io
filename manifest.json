@@ -1,0 +1,39 @@
+{
+    "name": "Project name",
+    "short_name": "Project short name",
+    "description": "Short project description",
+    "theme_color": "#1c69d4",
+    "background_color": "#1c69d4",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshot-320x320.png",
+            "type": "image/png",
+            "sizes": "320x320",
+            "form_factor": "narrow"
+        },
+        {
+            "src": "/screenshot-320x320.png",
+            "type": "image/png",
+            "sizes": "320x320",
+            "form_factor": "wide"
+        }
+    ],
+    "display": "standalone",
+    "orientation": "portrait",
+    "splash_pages": null
+}
